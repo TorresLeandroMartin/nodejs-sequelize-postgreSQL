@@ -1,0 +1,15 @@
+fuente: https://www.youtube.com/watch?v=3xiIOgYdbiE
+https://www.youtube.com/watch?v=cHGaDfzJyY4
+
+fecha: 16/03
+
+dependencias
+
+npm i -y
+npm i express morgan sequelize pg pg-hstore
+npm i nodemon -D (para separarlo en dev dependencies en package json)
+
+postgreSQL
+
+password: password
+pgAdmin pasword: password
